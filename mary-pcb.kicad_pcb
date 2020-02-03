@@ -452,8 +452,8 @@
     )
   )
 
-  (module Keebio-Parts:RotaryEncoder_EC11 (layer F.Cu) (tedit 5D936EDB) (tstamp 5E12EBA2)
-    (at 146.2075 82.59125)
+  (module Keebio-Parts:RotaryEncoder_EC11 (layer F.Cu) (tedit 5D936EDB) (tstamp 5E38ACE8)
+    (at 257.175 33.3375)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (path /5E386BA7)
