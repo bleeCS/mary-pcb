@@ -1340,28 +1340,4 @@ Wire Wire Line
 	10550 700  10450 700 
 Wire Wire Line
 	10450 700  10450 1350
-Text GLabel 3450 1850 2    50   Input ~ 0
-Row0
-Text GLabel 3450 1950 2    50   Input ~ 0
-Row1
-Text GLabel 3450 2050 2    50   Input ~ 0
-Row2
-Text GLabel 3450 2350 2    50   Input ~ 0
-Row3
-Text GLabel 3450 2450 2    50   Input ~ 0
-Row4
-Text GLabel 3450 2650 2    50   Input ~ 0
-Row5
-Text GLabel 3450 2750 2    50   Input ~ 0
-Col0
-Text GLabel 3450 2850 2    50   Input ~ 0
-Col1
-Text GLabel 3450 2950 2    50   Input ~ 0
-Col2
-Text GLabel 3450 3050 2    50   Input ~ 0
-Col3
-Text GLabel 3450 3150 2    50   Input ~ 0
-A(Left?)
-Text GLabel 3450 3250 2    50   Input ~ 0
-B(Right?)
 $EndSCHEMATC
