@@ -1322,26 +1322,6 @@ Wire Wire Line
 Wire Wire Line
 	10500 2250 10500 2450
 Connection ~ 10500 2450
-Text GLabel 3450 3850 2    50   Input ~ 0
-Row0
-Text GLabel 3450 3950 2    50   Input ~ 0
-Row1
-Text GLabel 3450 4050 2    50   Input ~ 0
-Row2
-Text GLabel 3450 4150 2    50   Input ~ 0
-Row3
-Text GLabel 3450 4250 2    50   Input ~ 0
-Row4
-Text GLabel 3450 4350 2    50   Input ~ 0
-Row5
-Text GLabel 3450 1850 2    50   Input ~ 0
-Col0
-Text GLabel 3450 1950 2    50   Input ~ 0
-Col1
-Text GLabel 3450 3250 2    50   Input ~ 0
-Col2
-Text GLabel 3450 3350 2    50   Input ~ 0
-Col3
 $Comp
 L Device:D_Small D4
 U 1 1 5E3ADAEC
@@ -1366,8 +1346,28 @@ Wire Wire Line
 Wire Wire Line
 	10350 2050 10350 1950
 Connection ~ 10350 1950
-Text GLabel 3450 1650 2    50   Input ~ 0
+Text GLabel 3450 3850 2    50   Input ~ 0
+Row5
+Text GLabel 3450 3950 2    50   Input ~ 0
+Row4
+Text GLabel 3450 4050 2    50   Input ~ 0
+Row3
+Text GLabel 3450 4150 2    50   Input ~ 0
+Row2
+Text GLabel 3450 4250 2    50   Input ~ 0
+Row1
+Text GLabel 3450 4350 2    50   Input ~ 0
+Row0
+Text GLabel 3450 1850 2    50   Input ~ 0
+Col0
+Text GLabel 3450 3350 2    50   Input ~ 0
+Col3
+Text GLabel 3450 3250 2    50   Input ~ 0
+Col2
+Text GLabel 3450 1950 2    50   Input ~ 0
+Col1
+Text GLabel 3450 2950 2    50   Input ~ 0
 A(Left?)
-Text GLabel 3450 1750 2    50   Input ~ 0
+Text GLabel 3450 3150 2    50   Input ~ 0
 B(Right?)
 $EndSCHEMATC
